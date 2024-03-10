@@ -1,9 +1,12 @@
 ### Hi there 👋
+Hello, My name is Jonathan Jiang. I'm a software engineer with a focus on backend development and DevOps/SRE. My expertise lies in cloud computing and backend development.
+Currently, I'm pursuing my Master's degree in Computer Science at SJSU. I'm passionate about building software as it bridges the gap between virtual environments and the real world.
 
 <!--
 **johnjiangtw0804/johnjiangtw0804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+About Me 🤝
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
