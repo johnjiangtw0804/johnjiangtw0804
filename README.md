@@ -1,11 +1,12 @@
 ### Hi there 👋
 Hello, My name is Jonathan Jiang. I'm a software engineer with a focus on backend development and DevOps/SRE. My expertise lies in cloud computing and backend development.
-Currently, I'm pursuing my Master's degree in Computer Science at SJSU. I'm passionate about building software as it bridges the gap between virtual environments and the real world 🌎
+Right now, I'm pursuing my Master's degree in Computer Science at SJSU. I'm passionate about building software as it bridges the gap between virtual environments and the real world 🌎
 
 🔭 I’m currently working on
  1. https://github.com/UCSD-Socially-Dead-Organization/tree-hole-backend with my classmates from UCSD. It is the backend part of a social application written in Go.
-[Link text](https://website-name.com)
-🌱 I’m currently learning how to build the front end with this course [Meta iOS Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-ios-developer).
+ 2. Researching on potential projects...
+
+🌱 I’m currently learning how to build an IOS app with this course [Meta iOS Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-ios-developer).
 
 
 <!--
