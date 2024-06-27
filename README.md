@@ -4,8 +4,8 @@ Currently, I'm pursuing my Master's degree in Computer Science at SJSU. I'm pass
 
 🔭 I’m currently working on
  1. https://github.com/UCSD-Socially-Dead-Organization/tree-hole-backend with my classmates from UCSD. It is the backend part of a social application written in Go.
-
-🌱 I’m currently learning to use Go to create backend applications.
+[Link text](https://website-name.com)
+🌱 I’m currently learning how to build the front end with this course [Meta iOS Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-ios-developer).
 
 
 <!--
