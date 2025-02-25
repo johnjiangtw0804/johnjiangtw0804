@@ -3,8 +3,9 @@ Hello, My name is Jonathan Jiang. I'm a software engineer with a focus on backen
 Right now, I'm pursuing my Master's degree in Computer Science at SJSU. I'm passionate about building software as it bridges the gap between virtual environments and the real world 🌎
 
 🔭 I’m currently working on
- 1. https://github.com/UCSD-Socially-Dead-Organization/tree-hole-backend with my classmates from UCSD. It is the backend part of a social application written in Go.
- 2. Researching on potential projects...
+1. I collaborated with my classmates from UCSD on the backend of a social application, tree-hole-backend, which is written in Go.
+2. I'm currently learning the basics of React.
+3. I'm actively looking for SDE jobs.
 
 
 
