@@ -1,6 +1,6 @@
 ### Hi there 👋
 Hello, My name is Jonathan Jiang. I'm a software engineer with a focus on backend development and DevOps/SRE. My expertise lies in cloud computing and backend development.
-Right now, I'm pursuing my Master's degree in Computer Science at SJSU. I'm passionate about building software as it bridges the gap between virtual environments and the real world 🌎
+Right now, I just graduated from SJSU with a master degree in computer science. I'm passionate about building software as it bridges the gap between virtual environments and the real world 🌎
 
 🔭 I’m currently working on
 1. I collaborated with my classmates from UCSD on the backend of a social application, tree-hole-backend, which is written in Go.
