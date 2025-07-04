@@ -2,7 +2,7 @@
 Hello, My name is Jonathan Jiang. I'm a software engineer with a focus on backend development and DevOps/SRE. My expertise lies in cloud computing and backend development.
 I just graduated from SJSU with a master degree in computer science. I'm passionate about building software as it bridges the gap between virtual environments and the real world 🌎
 
-1. Leetcode + System Design 
+1. [Leetcode + System Design](https://github.com/johnjiangtw0804/Leetcode)
 2. [Chatbot-front-end](https://github.com/johnjiangtw0804/chatbot-front-end)
 3. [Chatbot-back-end](https://github.com/johnjiangtw0804/chatbot-back-end-authentication)
 <!--
