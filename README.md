@@ -5,6 +5,9 @@ I just graduated from SJSU with a master degree in computer science. I'm passion
 1. [Leetcode + System Design](https://github.com/johnjiangtw0804/Leetcode)
 2. [Chatbot-front-end](https://github.com/johnjiangtw0804/chatbot-front-end)
 3. [Chatbot-back-end](https://github.com/johnjiangtw0804/chatbot-back-end-authentication)
+
+4. To deepen my understanding of system design, I am currently learning various technologies such as Redis, Kafka, and DynamoDB. I plan to build small projects that incorporate these technologies.
+
 <!--
 **johnjiangtw0804/johnjiangtw0804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
